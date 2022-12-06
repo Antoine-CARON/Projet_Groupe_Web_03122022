@@ -40,24 +40,3 @@ aside {
     right: 7px;
     top: 15px;
 }
-
-html, body {
-    margin: 0;
-    padding: 0;
-    background-color: rgb(65, 37, 68);
-    color: rgb(241, 235, 228);
-}
-
-h1{
-    color:rgb(65, 37, 68);
-    
-}
-
-nav{ 
-color:brown;
-font-weight:bold;
-}
-
-h3{
-    color:blueviolet;
-}
